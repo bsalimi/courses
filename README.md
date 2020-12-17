@@ -30,7 +30,7 @@ TBD
 
 TBD
 
-**Piazza:** [**DSC 100/ 2021**]https://piazza.com/ucsd/winter2021/dsc100) (Requires access code posted on Canvas)
+**Piazza:** https://piazza.com/ucsd/winter2021/dsc100) (Requires access code posted on Canvas)
 
 
 
@@ -38,15 +38,35 @@ TBD
 
 | Week |                         Description                          |
 | :--: | :----------------------------------------------------------: |
-|  1   | ** Intro, Data models, SQL (Basic)*<br/>[Slides](TBD) [Recorded Lecture](TBD) |
-|  2   | *Join and Aggregates in SQL*<br/> [Slides](TBD) [Recorded Lecture](TBD) |
-|  3   | * Relational Algebra* <br/> [Slides](TBD) [Recorded Lecture](TBD) |
-|  4   | *Query Execution and Indexes*<br/> [Slides](TBD) [Recorded Lecture](TBD) |
-| 5,6  | *Conceptual Design*<br/>[Slides](TBD) [Recorded Lecture](TBD) |
-|  7   | Size Estimation; NoSQL, JSon*<br/>[Slides](TBD) [Recorded Lecture](TBD) |
-|  8   | *8. JASON and SQL++*<br/>[Slides](TBD) [Recorded Lecture](TBD) |
-|  9   | **8. Transactions*<br/>[Slides](TBD) [Recorded Lecture](TBD) |
-|  10  | *8. Parallel Systems<br/>[Slides](TBD) [Recorded Lecture](TBD) |
+|  1   | Intro, Data models, SQL (Basic)<br/>[Slides](TBD) [Recorded Lecture](TBD) |
+|  2   |                  Join and Aggregates in SQL                  |
+|  3   |                      Relational Algebra                      |
+|  4   |                *Query Execution and Indexes*                 |
+| 5,6  |                      Conceptual Design                       |
+|  7   |                 Size Estimation; NoSQL, JSon                 |
+|  8   |                       JASON and SQL++                        |
+|  9   |                         Transactions                         |
+|  10  |                       Parallel Systems                       |
+
+
+
+**Homework:**
+
+
+
+| Week |                         Description                          |
+| :--: | :----------------------------------------------------------: |
+|  1   | [WQ1 due: Introduction, Data Models, and Simple SQL](http://www.newgradiance.com/services/) |
+|      |                                                              |
+|      |                                                              |
+|      |                                                              |
+|      |                                                              |
+|      |                                                              |
+|      |                                                              |
+|      |                                                              |
+|      |                       Parallel Systems                       |
+
+
 
 
 
