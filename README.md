@@ -8,7 +8,7 @@
 
 ##### Description
 
-Databases are at the heart of modern commercial application development. Their use extends beyond this to many other environments and domains where large amounts of data must be stored for efficient update, retrieval, and analysis. The purpose of this course is to provide a comprehensive introduction to the use of management systems for applications. Some of the topics covered are the following: data models, query languages, transactions, data cleaning, and database as a service.
+Databases are at the heart of modern commercial application development. Their use extends beyond this to many other environments and domains where large amounts of data must be stored for efficient update, retrieval, and analysis. The purpose of this course is to provide a comprehensive introduction to the use of management systems for applications. Some of the topics covered are the following: data models, query languages, transactions, database design and database as a service.
 
 **Instructor:**
 
@@ -36,37 +36,17 @@ TBD
 
 **Calander:**
 
-| Week |                         Description                          |
-| :--: | :----------------------------------------------------------: |
-|  1   | Intro, Data models, SQL (Basic)<br/>[Slides](TBD) [Recorded Lecture](TBD) |
-|  2   |                  Join and Aggregates in SQL                  |
-|  3   |                      Relational Algebra                      |
-|  4   |                *Query Execution and Indexes*                 |
-| 5,6  |                      Conceptual Design                       |
-|  7   |                 Size Estimation; NoSQL, JSon                 |
-|  8   |                       JASON and SQL++                        |
-|  9   |                         Transactions                         |
-|  10  |                       Parallel Systems                       |
-
-
-
-**Homework:**
-
-
-
-| Week |                         Description                          |
-| :--: | :----------------------------------------------------------: |
-|  1   | [WQ1 due: Introduction, Data Models, and Simple SQL](http://www.newgradiance.com/services/) |
-|      |                                                              |
-|      |                                                              |
-|      |                                                              |
-|      |                                                              |
-|      |                                                              |
-|      |                                                              |
-|      |                                                              |
-|      |                       Parallel Systems                       |
-
-
+| Week |           Description           | Slides | Video | **Assignments** |
+| :--: | :-----------------------------: | :----: | ----- | --------------- |
+|  1   | Intro, Data models, SQL (Basic) |        |       |                 |
+|  2   |   Join and Aggregates in SQL    |        |       |                 |
+|  3   |       Relational Algebra        |        |       |                 |
+|  4   |  *Query Execution and Indexes*  |        |       |                 |
+| 5,6  |        Conceptual Design        |        |       |                 |
+|  7   |  Size Estimation; NoSQL, JSon   |        |       |                 |
+|  8   |         JASON and SQL++         |        |       |                 |
+|  9   |          Transactions           |        |       |                 |
+|  10  |        Parallel Systems         |        |       |                 |
 
 
 
