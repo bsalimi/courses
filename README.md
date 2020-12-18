@@ -30,7 +30,7 @@ TBD
 
 TBD
 
-**Piazza:** https://piazza.com/ucsd/winter2021/dsc100) (Requires access code posted on Canvas)
+**Piazza:** [DSC 100-wi21](https://piazza.com/ucsd/winter2021/dsc100) (Requires access code posted on Canvas)
 
 
 
