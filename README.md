@@ -46,7 +46,7 @@ TBD
 |  7   |  Size Estimation; NoSQL, JSon   |        |       |                 |
 |  8   |         JASON and SQL++         |        |       |                 |
 |  9   |          Transactions           |        |       |                 |
-|  10  |        Parallel Systems         |        |       |                 |
+|  10  |       Advanced Topics        |        |       |                 |
 
 
 
