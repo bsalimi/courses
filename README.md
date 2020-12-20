@@ -99,7 +99,7 @@ All questions that may be of general interest to the class should be directed to
 
 ## Related Groups:
 
-- [UCSD Database Group](http://www.google.com/url?q=https://dbucsd.github.io/)
+- [UCSD Database Group](https://dbucsd.github.io/)
 
 - [SIGMOD (Special Interest Group on Management of Data)](https://www.google.com/url?q=https%3A%2F%2Fsigmod.org%2F&sa=D&sntz=1&usg=AFQjCNEv9sM8CpuOZ7oxWFX_20353W6NZw)
 
