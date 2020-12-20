@@ -65,21 +65,21 @@ TBD
 
 **(subject to change)**
 
-**Homeworks (50%):** There will be **weekly homeworks** (due in 7 days). They will be based on the last 1-2 lectures. They are of two types:
+**Homeworks (60%):** There will be **weekly homeworks** (due in 7 days). They will be based on the last 1-2 lectures. They are of two types:
 
-1. **Written problem solving and programming assignments (30%):**
+1. **Written problem solving and programming assignments (50%):**
    Start early and allocate enough time to solve these problems! 
 
    **Late policy:** Homework problems that are submitted late will receive an automatic deduction of 5% per hour late (per problem, not per sub-problem, so even if one sub-problem is late, the problem is late). You will receive no credit after the sample solution becomes available. We will drop the (one) lowest score at the end.
 
-2. **Gradiance exercises (20%):**
+2. **Gradiance exercises (10%):**
    [Gradiance](https://www.gradiance.com/) is an online service pioneered by one of the authors of the textbook, Prof. Jeffrey Ullman at Stanford. One of the best features of Gradiance is that you are permitted to test yourself on a particular topic as many times as you like. You receive immediate feedback for each attempt, which avoids the shortcoming of the traditional submit-and-then-wait-for-grades assignments where one error in understanding can permeate solutions to multiple problems and does not get rectified until much later. We encourage you to continue testing on each topic until you complete the part of the assignment with a 100% score. The highest score will be recorded. The questions will be the same in every attempt, but the answer choices will be selected at random. We will drop the lowest two scores at the end.
 
-3. **Midterm (15%)** and **final  (15%)**: Details would be posted later.
+3. **Midterm (20%)** and **final  (20%)**: Details would be posted later.
 
 4. **Extra Credit**: 
 
-   - Some assignment have extra credit questions.
+   - Some howmeworks have extra credit questions.
 
    - Large number of good answers on Piazza.  
 
@@ -93,7 +93,7 @@ Database Systems: The Complete Book, by Hector Garcia-Molina, Jeffrey D. Ullman,
 
 **Communication and Piazza:**  All important announcements will be sent through both Piazza and Canvas.
 
-All questions that may be of general interest to the class should be directed to Piazza. Do not use the mailing list. You will get your questions answered faster on Piazza than via personal emails to the instructional team, because Piazza is monitored closely by everybody in the class, not just the course staff. You are highly encouraged to answer each others' questions on Piazza ( <font color='red'>you will get credit for # of good answers on Piazza!</font> credit for it!) and the instructional team would endorse/add to those answers.
+All questions that may be of general interest to the class should be directed to Piazza. Do not use the mailing list. You will get your questions answered faster on Piazza than via personal emails to the instructional team, because Piazza is monitored closely by everybody in the class, not just the course staff. You are highly encouraged to answer each others' questions on Piazza ( *you will get extra credit for # of good answers on Piazza!*) and the instructional team would endorse/add to those answers.
 
 
 
