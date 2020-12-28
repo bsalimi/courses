@@ -30,6 +30,10 @@ Patil, Chaitanya Sharadchandra, [cpatil@ucsd.edu](mailto:cpatil@ucsd.edu)
 
 The lecture for this class will be ASYNCHRONOUS and discussion sections will be SYNCHRONOUS. 
 
+**Discussion:**: 
+
+Wednesday 4:00 pm to 4:50 pm (Zoom)
+
 **Office Hours:**
 
 TBD
@@ -46,18 +50,18 @@ TBD
 
 **(subject to change)**
 
-| Week |           Description           | Slides | **Assignments / Remarks** | **Optional Reading** |
+| Week |           Description           | Discussions | **Assignments / Remarks** | **Optional Reading** |
 | :--: | :-----------------------------: | :----: | ----- | --------------- |
-|  1   | Intro, Data models, SQL (Basic) |        |       |  |
-|  2   |   Join and Aggregates in SQL    |        |       |  |
-|  3   |       Relational Algebra        |        |       |  |
-|  4   |  Query Execution and Indexes  |        |       |  |
-| 5  |        Mid-term        |        |       |  |
-|  7   | Conceptual Design |        |       |  |
-|  8   |         Size Estimation; NoSQL, JASON         |        |       |  |
-|  9   |     JASON and SQL++ |        |       |  |
-|  10  |  Transactions |        |       |  |
-| 11 | Final-exam | | |  |
+|  1   | Intro, Data models, SQL (Basic) | Sqlite |       |  |
+|  2   |   Join and Aggregates in SQL    | SQL | WQ1 due: Introduction, Data Models, and Simple SQL  HW1 due: Sqlite |  |
+|  3   |       Relational Algebra        | Azure and Advanced SQL | WQ2 due: SQL Aggregates  <br />HW2 due: Basic SQL |  |
+|  4   |  Query Execution and  Indexes  | Relational Algebra | WQ3 due: Nested Queries in SQL |  |
+| 5  |        Conceptual Design **Mid-term**        | Exam Pratice | HW3 due: Advanced SQL |  |
+|  6   | Size Estimation; NoSQL, JASON | Design Theory | WQ4 due: Relational Algebra <br />HW4 due: Relational Algebra |  |
+|  7   |         JASON and SQL++         | Cost Estimation | WQ5 due: Conceptual Design <br />HW5 due: Conceptual Design |  |
+|  8   | Transactions | Semi-Structured data | HW6 due: JSON, NoSQL, and AsterixDB |  |
+|  9  | Guest Lecture on Data Cleaning | Transactions |  |  |
+| 10 | **Final-exam** | Exam Pratice | WQ6 due: Transaction Management  <br />HW7 due: Database Application and Transaction Management |  |
 
 
 
