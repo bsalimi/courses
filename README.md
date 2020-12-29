@@ -56,10 +56,10 @@ TBD
 |  4   |  Query Execution and  Indexes  | Relational Algebra practice | WQ3 due: Nested Queries in SQL |  |
 | 5  |        Conceptual Design **Mid-term**        | Exam practice | HW3 due: Advanced SQL |  |
 |  6   | Size Estimation; NoSQL, JASON | Design theory practice | WQ4 due: Relational Algebra <br />HW4 due: Relational Algebra |  |
-|  7   |         JASON and SQL++         | Cost estimation practice | WQ5 due: Conceptual Design <br />HW5 due: Conceptual Design |  |
-|  8   | Transactions | Semi-Structured data practice | HW6 due: JSON, NoSQL, and AsterixDB |  |
-|  9  | Guest Lecture on Data Cleaning | Transactions practice |  |  |
-| 10 | **Final-exam** | Exam practice | WQ6 due: Transaction Management  <br />HW7 due: Database Application and Transaction Management |  |
+|  7   |         JASON and SQL++         | Semi-Structured data practice | WQ5 due: Conceptual Design <br />HW5 due: Conceptual Design |  |
+|  8   | Transactions | Transactions practice | HW6 due: JSON, NoSQL, and AsterixDB |  |
+|  9  | Guest Lecture on Data Cleaning | Exam practice |  |  |
+| 10 | **Final-exam** |  | WQ6 due: Transaction Management  <br />HW7 due: Database Application and Transaction Management |  |
 
 
 
