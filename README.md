@@ -67,7 +67,7 @@ TBD
 
 **(subject to change)**
 
-**Homework (60%):** There will be **weekly homework** (due in 7 days). They will be based on the last 1-2 lectures. They are of two types:
+**Homework (60%):** There will be **weekly homeworks**. They will be based on the last 1-2 lectures. They are of two types:
 
 1. **Written problem-solving and programming assignments (50%):**
    Start early and allocate enough time to solve these problems! 
@@ -91,7 +91,9 @@ TBD
 
 Database Systems: The Complete Book, by Hector Garcia-Molina, Jeffrey D. Ullman, and Jennifer Widom. 2nd Edition. Prentice Hall. 2008.
 
-**Gradescope:** We will use Gradescope (for submission and grading of (non-Gradiance) homeworks and exams.
+**Canvas:** All weekly homework assignments should be turned in via Canvas.
+
+**Gradescope:** We will use Gradescope for submission and grading of  exams.
 
 **Communication and Piazza:**  All important announcements will be sent through both Piazza and Canvas.
 
