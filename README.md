@@ -52,15 +52,15 @@ TBD
 
 | Week |           Description           | Discussions | **Assignments / Remarks** | **Optional Reading** |
 | :--: | :-----------------------------: | :----: | ----- | --------------- |
-|  1   | Intro, Data models, SQL (Basic) | Sqlite |       |  |
-|  2   |   Join and Aggregates in SQL    | SQL | WQ1 due: Introduction, Data Models, and Simple SQL  HW1 due: Sqlite |  |
-|  3   |       Relational Algebra        | Azure and Advanced SQL | WQ2 due: SQL Aggregates  <br />HW2 due: Basic SQL |  |
-|  4   |  Query Execution and  Indexes  | Relational Algebra | WQ3 due: Nested Queries in SQL |  |
-| 5  |        Conceptual Design **Mid-term**        | Exam Pratice | HW3 due: Advanced SQL |  |
-|  6   | Size Estimation; NoSQL, JASON | Design Theory | WQ4 due: Relational Algebra <br />HW4 due: Relational Algebra |  |
-|  7   |         JASON and SQL++         | Cost Estimation | WQ5 due: Conceptual Design <br />HW5 due: Conceptual Design |  |
-|  8   | Transactions | Semi-Structured data | HW6 due: JSON, NoSQL, and AsterixDB |  |
-|  9  | Guest Lecture on Data Cleaning | Transactions |  |  |
+|  1   | Intro, Data models, SQL (Basic) | Sqlite pratice |       |  |
+|  2   |   Join and Aggregates in SQL    | SQL pratice | WQ1 due: Introduction, Data Models, and Simple SQL  HW1 due: Sqlite |  |
+|  3   |       Relational Algebra        | Azure and Advanced SQL pratice | WQ2 due: SQL Aggregates  <br />HW2 due: Basic SQL |  |
+|  4   |  Query Execution and  Indexes  | Relational Algebra pratice | WQ3 due: Nested Queries in SQL |  |
+| 5  |        Conceptual Design **Mid-term**        | Exam pratice | HW3 due: Advanced SQL |  |
+|  6   | Size Estimation; NoSQL, JASON | Design theory pratice | WQ4 due: Relational Algebra <br />HW4 due: Relational Algebra |  |
+|  7   |         JASON and SQL++         | Cost estimation pratice | WQ5 due: Conceptual Design <br />HW5 due: Conceptual Design |  |
+|  8   | Transactions | Semi-Structured data pratice | HW6 due: JSON, NoSQL, and AsterixDB |  |
+|  9  | Guest Lecture on Data Cleaning | Transactions pratice |  |  |
 | 10 | **Final-exam** | Exam Pratice | WQ6 due: Transaction Management  <br />HW7 due: Database Application and Transaction Management |  |
 
 
@@ -74,7 +74,7 @@ TBD
 1. **Written problem solving and programming assignments (50%):**
    Start early and allocate enough time to solve these problems! 
 
-   **Late policy:** Homework problems that are submitted late will receive an automatic deduction of 5% per hour late (per problem, not per sub-problem, so even if one sub-problem is late, the problem is late). You will receive no credit after the sample solution becomes available. We will drop the (one) lowest score at the end.
+   **Late policy:** Homework problems that are submitted late will receive an automatic deduction of 5% per hour late (per problem, not per sub-problem, so even if one sub-problem is late, the problem is late). 
 
 2. **Gradiance exercises (10%):**
    [Gradiance](https://www.gradiance.com/) is an online service pioneered by one of the authors of the textbook, Prof. Jeffrey Ullman at Stanford. One of the best features of Gradiance is that you are permitted to test yourself on a particular topic as many times as you like. You receive immediate feedback for each attempt, which avoids the shortcoming of the traditional submit-and-then-wait-for-grades assignments where one error in understanding can permeate solutions to multiple problems and does not get rectified until much later. We encourage you to continue testing on each topic until you complete the part of the assignment with a 100% score. The highest score will be recorded. The questions will be the same in every attempt, but the answer choices will be selected at random. We will drop the lowest two scores at the end.
