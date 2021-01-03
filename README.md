@@ -50,7 +50,7 @@ TBD
 
 | Week |           Description/Lectures           | Discussions | **Assignments / Remarks** | Lecture | **Optional Reading** |
 | :--: | :-----------------------------: | :----: | ----- | --------------- | ---- |
-|  1   | Intro, Data models, SQL (Basic) | Sqlite practice |       | [Slides and recordings](./Lectures.lec01.md) |  |
+|  1   | Intro, Data models, SQL (Basic) | Sqlite practice |       | [Slides and recordings](./Lectures/lec01.md) |  |
 |  2   |   Join and Aggregates in SQL    | SQL practice | WQ1 due: Introduction, Data Models, and Simple SQL  HW1 due: Sqlite |  |  |
 |  3   |       Relational Algebra        | Azure and Advanced SQL practice | WQ2 due: SQL Aggregates  <br />HW2 due: Basic SQL |  |  |
 |  4   |  Query Execution and  Indexes  | Relational Algebra practice | WQ3 due: Nested Queries in SQL |  |  |
