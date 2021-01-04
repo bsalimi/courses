@@ -48,7 +48,7 @@ TBD
 
 **(subject to change)**
 
-| Week |           Description/Lectures           | Discussions | **Assignments / Remarks** | Lecture | **Optional Reading** |
+| Week |           Description           | Discussions | **Assignments / Remarks** | Lectures | **Optional Reading** |
 | :--: | :-----------------------------: | :----: | ----- | --------------- | ---- |
 |  1   | Intro, Data models, SQL (Basic) | Sqlite practice |       | [Slides and recordings](./Lectures/lec01.md) | Sec. 2.1, 2.2, 2.3 |
 |  2   |   Join and Aggregates in SQL    | SQL practice | WQ1 due: Introduction, Data Models, and Simple SQL  <br />HW1 due: Sqlite |  |  |
@@ -71,8 +71,6 @@ TBD
 
 1. **Written problem-solving and programming assignments (50%):**
    Start early and allocate enough time to solve these problems! 
-
-   **Late policy:** Homework problems that are submitted late will receive an automatic deduction of 5% per hour late (per problem, not per sub-problem, so even if one sub-problem is late, the problem is late). 
 
 2. **Gradiance exercises (10%):**
    [Gradiance](https://www.gradiance.com/) is an online service pioneered by one of the authors of the textbook, Prof. Jeffrey Ullman at Stanford. One of the best features of Gradiance is that you are permitted to test yourself on a particular topic as many times as you like. You receive immediate feedback for each attempt, which avoids the shortcoming of the traditional submit-and-then-wait-for-grades assignments where one error in understanding can permeate solutions to multiple problems and does not get rectified until much later. We encourage you to continue testing on each topic until you complete the part of the assignment with a 100% score. The highest score will be recorded. The questions will be the same in every attempt, but the answer choices will be selected at random. We will drop the lowest two scores at the end.
