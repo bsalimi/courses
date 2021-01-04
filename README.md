@@ -30,15 +30,19 @@ The lecture for this class will be ASYNCHRONOUS and discussion sections will be 
 
 **Discussion:**: 
 
-Wednesday 4:00 pm to 4:50 pm (Zoom)
+Wednesdays 4:00 pm to 4:50 pm 
 
 **Office Hours:**
 
-TBD
+Mondays 4:00 PM to 5:00 PM (Babak Salimi)
+
+**Zoom Meetings:** 
+
+Links to the Zoom meetings will appear on the course's Canvas page.
+
+
 
 **Piazza:** [DSC 100-wi21](https://piazza.com/ucsd/winter2021/dsc100) (Requires access code posted on Canvas)
-
-
 
 **Have questions? Please email both Babak Salimi (bsalimi@ucsd.edu) and one of the TAs for questions on logistics. All other questions SHOULD be discussed on Piazza.**
 
@@ -91,11 +95,11 @@ Database Systems: The Complete Book, by Hector Garcia-Molina, Jeffrey D. Ullman,
 
 **Canvas:** All weekly homework assignments should be turned in via Canvas.
 
-**Gradescope:** We will use Gradescope for submission and grading of  exams.
+**Gradescope:** We will use Gradescope for submission and grading of exams.
 
 **Communication and Piazza:**  All important announcements will be sent through both Piazza and Canvas.
 
-All questions that may be of general interest to the class should be directed to Piazza. Do not use the mailing list. You will get your questions answered faster on Piazza than via personal emails to the instructional team, because Piazza is monitored closely by everybody in the class, not just the course staff. You are highly encouraged to answer each others' questions on Piazza (*you will get extra credit for # of good answers on Piazza!*) and the instructional team would endorse/add to those answers.
+All questions that may be of general interest to the class should be directed to Piazza. You will get your questions answered faster on Piazza than via personal emails to the instructional team, because Piazza is monitored closely by everybody in the class, not just the course staff. You are highly encouraged to answer each others' questions on Piazza (*you will get extra credit for # of good answers on Piazza!*) and the instructional team would endorse/add to those answers.
 
 
 
@@ -112,21 +116,3 @@ All questions that may be of general interest to the class should be directed to
 - [ICDT(IEEE International Conference on Data Engineering)](http://ieee-icde.org/)
 
 - [CIDR (Conference on Innovative Data Systems Research)](http://www.google.com/url?q=http%3A%2F%2Fcidrdb.org%2F&sa=D&sntz=1&usg=AFQjCNHZ5MTU545Lei9xcYfQR9fHHLan5w)
-
-  
-
-  
-
-  
-
-  
-
-
-
-
-
-
-
-
-
-
