@@ -56,8 +56,8 @@ Links to the Zoom meetings will appear on the course's Canvas page.
 | :--: | :-----------------------------: | :----: | ----- | --------------- | ---- |
 |  1   | Intro, Data models, SQL (Basic) | Sqlite practice <br />  [Source](https://drive.google.com/file/d/1hPmCCTVhdDo1vJKnZsJIR04oaWLwvbVw/view?usp=sharing), [Recording](https://drive.google.com/file/d/1UU-plebIEwNFsObNg-EciBBpzcvn9PE_/view?usp=sharing) |       | [Slides and recordings](./Lectures/lec01.md) | Sec. 2.1, 2.2, 2.3 |
 |  2   |   Join and Aggregates in SQL    | SQL practice | WQ1 due: Introduction, Data Models, and Simple SQL  <br />HW1 due: Sqlite | [Slides and recordings](./Lectures/lec02.md) | Sec. 6.1, 6.2 |
-|  3   |       Relational Algebra        | Azure and Advanced SQL practice | WQ2 due: SQL Aggregates  <br />HW2 due: Basic SQL |  |  |
-|  4   |  Query Execution and  Indexes  | Relational Algebra practice | WQ3 due: Nested Queries in SQL |  |  |
+|  3   | Advanced SQL and Relational Algebra | Azure and Advanced SQL practice | HW2 due: Basic SQL |  |  |
+|  4   |  Query Execution and  Indexes  | Relational Algebra practice | WQ3 due: Nested Queries in SQL WQ2 due: SQL Aggregates  <br /> |  |  |
 | 5  |        Conceptual Design **Mid-term**        | Exam practice | HW3 due: Advanced SQL |  |  |
 |  6   | Size Estimation; NoSQL, JASON | Design theory practice | WQ4 due: Relational Algebra <br />HW4 due: Relational Algebra |  |  |
 |  7   |         JASON and SQL++         | Semi-Structured data practice | WQ5 due: Conceptual Design <br />HW5 due: Conceptual Design |  |  |
