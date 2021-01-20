@@ -20,7 +20,7 @@ Databases are at the heart of modern commercial application development. Their u
 
 Athavale, Shivani Sandeep, [ssathava@ucsd.edu](mailto:ssathava@ucsd.edu) 
 
-Hu, Ruohan, [r8hu@ucsd.edu](mailto:r8hu@ucsd.edu) 
+Yeswanth Guntupalli, [yguntupa@eng.ucsd.edu](mailto:yguntupa@eng.ucsd.edu) 
 
 Patil, Chaitanya Sharadchandra, [cpatil@ucsd.edu](mailto:cpatil@ucsd.edu)
 
