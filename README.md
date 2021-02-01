@@ -61,7 +61,7 @@ Links to the Zoom meetings will appear on the course's Canvas page.
 | 5  |        Query Evaluation <br />  **Mid-term**        | Exam practice |  | [Slides and recordings](./Lectures/lec05.md) |  |
 |  6   | Query Optimisation and  Conceptual Design | Design theory practice | HW3 due: Advanced SQL |  |  |
 |  7   |         NoSQL and JASON         | Semi-Structured data practice | WQ5 due: Conceptual Design <br />HW4 due: Conceptual Design |  |  |
-|  8   | Transactions | Transactions practice | HW6 due: JSON and NoSQL |  |  |
+|  8   | Transactions | Transactions practice | HW5 due: JSON and NoSQL |  |  |
 |  9  | Data Cleaning | Exam practice |  |  |  |
 | 10 | **Final-exam** |  | WQ6 due: Transaction Management  <br />HW7 due: Database Application and Transaction Management |  |  |
 
