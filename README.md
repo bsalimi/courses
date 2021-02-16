@@ -60,7 +60,7 @@ Links to the Zoom meetings will appear on the course's Canvas page.
 |  4   |  Relational Algebra  | Relational Algebra practice [Source](https://drive.google.com/file/d/1Z_vs0hlqfDnGYgZ_seTuJkZhI7456KjI/view?usp=sharing), [Recording](https://drive.google.com/file/d/1Pw_GA5SYiEDa-L-OGcpHows4izmIHL1M/view?usp=sharing) | WQ3 due: Nested Queries and Relational Algebra | [Slides and recordings](./Lectures/lec04.md) |  |
 | 5  |        Query Evaluation <br />  **Mid-term**        | Exam practice [Recording](https://ucsd.zoom.us/rec/share/PYh0sN8DWfIEQnvnnpTtLDRLH04iqScNWk3Vsj_nRCcOeI2qlFm58fGRfmuPJDez.FHa-NhB1fpui6EJc) |  | [Slides and recordings](./Lectures/lec05.md) |  |
 |  6   | Basics of Data Storage and Indexes | Midterm solutions [Recording](https://drive.google.com/file/d/1WvG_n7DSc5s8KEYvJBgClSyePGtE2O1T/view?usp=sharing) | HW3 due: Advanced SQL | [Slides and recordings](./Lectures/lec06.md) |  |
-|  7   |         NoSQL and JASON         | Indexes and Cost Estimation |  | [Slides and recordings](./Lectures/lec07.md) |  |
+|  7   |         Cost Estimation <br /> NoSQL Databases         | Indexes and Cost Estimation |  | [Slides and recordings](./Lectures/lec07.md) |  |
 |  8   | Conceptual Design | Design practice | HW4 due: Conceptual Design |  |  |
 |  9  | Transactions | Transactions practice | WQ4 due: Conceptual Design <br /> |  |  |
 | 10 | Transactions <br />Final-exam** | Exam practice | WQ5 due: Transaction Management |  |  |
