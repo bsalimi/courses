@@ -61,8 +61,8 @@ Links to the Zoom meetings will appear on the course's Canvas page.
 | 5  |        Query Evaluation <br />  **Mid-term**        | Exam practice [Recording](https://ucsd.zoom.us/rec/share/PYh0sN8DWfIEQnvnnpTtLDRLH04iqScNWk3Vsj_nRCcOeI2qlFm58fGRfmuPJDez.FHa-NhB1fpui6EJc) |  | [Slides and recordings](./Lectures/lec05.md) |  |
 |  6   | Basics of Data Storage and Indexes | Midterm solutions [Recording](https://drive.google.com/file/d/1WvG_n7DSc5s8KEYvJBgClSyePGtE2O1T/view?usp=sharing) | HW3 due: Advanced SQL | [Slides and recordings](./Lectures/lec06.md) |  |
 |  7   |         Cost Estimation <br /> NoSQL Databases         | Indexes and Cost Estimation [Source](https://docs.google.com/document/d/1QuVwn00LeX-4E4oRlV2mb5YjeUqvPV9WNKAAraQHiTY/edit?usp=sharing) [Recording](https://drive.google.com/file/d/1T3z42aQHAV5Ki0vrWmDAECyvlyyTps6_/view?usp=sharing) |  | [Slides and recordings](./Lectures/lec07.md) |  |
-|  8   | Conceptual Design | Design practice | HW4 due: Conceptual Design |  |  |
-|  9  | Transactions | Transactions practice | WQ4 due: Conceptual Design <br /> |  |  |
+|  8   | Conceptual Design | Design practice |  | [Slides and recordings](./Lectures/lec08.md) | Sec. 4.1, 4.6 |
+|  9  | Transactions | Transactions practice | WQ4 due: Conceptual Design <br />HW4 due: Conceptual Design |  |  |
 | 10 | Transactions <br />Final-exam** | Exam practice | WQ5 due: Transaction Management |  |  |
 
 
