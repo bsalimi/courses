@@ -62,8 +62,8 @@ Links to the Zoom meetings will appear on the course's Canvas page.
 |  6   | Basics of Data Storage and Indexes | Midterm solutions [Recording](https://drive.google.com/file/d/1WvG_n7DSc5s8KEYvJBgClSyePGtE2O1T/view?usp=sharing) | HW3 due: Advanced SQL | [Slides and recordings](./Lectures/lec06.md) |  |
 |  7   |         Cost Estimation <br /> NoSQL Databases         | Indexes and Cost Estimation [Source](https://docs.google.com/document/d/1QuVwn00LeX-4E4oRlV2mb5YjeUqvPV9WNKAAraQHiTY/edit?usp=sharing) [Recording](https://drive.google.com/file/d/1T3z42aQHAV5Ki0vrWmDAECyvlyyTps6_/view?usp=sharing) |  | [Slides and recordings](./Lectures/lec07.md) |  |
 |  8   | Conceptual Design | Design practice |  | [Slides and recordings](./Lectures/lec08.md) | Sec. 4.1, 4.6 |
-|  9  | Transactions | Transactions practice | WQ4 due: Conceptual Design <br />HW4 due: Conceptual Design |  |  |
-| 10 | Transactions <br />Final-exam** | Exam practice | WQ5 due: Transaction Management |  |  |
+|  9  | BCNF, Transactions | Transactions practice | WQ4 due: Conceptual Design <br />HW4 due: Conceptual Design | [Slides and recordings](./Lectures/lec09.md) |  |
+| 10 | Transactions | Exam practice | WQ5 due: Transaction Management |  |  |
 
 
 
@@ -71,15 +71,15 @@ Links to the Zoom meetings will appear on the course's Canvas page.
 
 **(subject to change)**
 
-**Homework (60%):** There will be **weekly homeworks**. They will be based on the last 1-2 lectures. They are of two types:
+**Homework (45%):** There will be **weekly homeworks**. They will be based on the last 1-2 lectures. They are of two types:
 
-1. **Written problem-solving and programming assignments (50%):**
+1. **Written problem-solving and programming assignments (35%):**
    Start early and allocate enough time to solve these problems! 
 
 2. **Gradiance exercises (10%):**
    [Gradiance](https://www.gradiance.com/) is an online service pioneered by one of the authors of the textbook, Prof. Jeffrey Ullman at Stanford. One of the best features of Gradiance is that you are permitted to test yourself on a particular topic as many times as you like. You receive immediate feedback for each attempt, which avoids the shortcoming of the traditional submit-and-then-wait-for-grades assignments where one error in understanding can permeate solutions to multiple problems and does not get rectified until much later. We encourage you to continue testing on each topic until you complete the part of the assignment with a 100% score. The highest score will be recorded. The questions will be the same in every attempt, but the answer choices will be selected at random. We will drop the lowest two scores at the end.
 
-3. **Midterm (20%)** and **final  (20%)**: Details would be posted later.
+3. **Midterm (20%)** and **final  (35%)**: Details would be posted later.
 
 4. **Extra Credit**: 
 
