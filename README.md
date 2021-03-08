@@ -63,7 +63,7 @@ Links to the Zoom meetings will appear on the course's Canvas page.
 |  7   |         Cost Estimation <br /> NoSQL Databases         | Indexes and Cost Estimation [Source](https://docs.google.com/document/d/1QuVwn00LeX-4E4oRlV2mb5YjeUqvPV9WNKAAraQHiTY/edit?usp=sharing) [Recording](https://drive.google.com/file/d/1T3z42aQHAV5Ki0vrWmDAECyvlyyTps6_/view?usp=sharing) |  | [Slides and recordings](./Lectures/lec07.md) |  |
 |  8   | Conceptual Design | Design practice [Source](https://drive.google.com/file/d/1ocF-qNILFQxcO8TYlTysBqkUToaGmoJu/view?usp=sharing) [Recording](https://drive.google.com/file/d/1Abq-DQrdbXwBpsE-b06PYFgMm_vIz9YL/view?usp=sharing) |  | [Slides and recordings](./Lectures/lec08.md) | Sec. 4.1, 4.6 |
 |  9  | BCNF, Transactions | Transactions practice | WQ4 due: Conceptual Design <br />HW4 due: Conceptual Design | [Slides and recordings](./Lectures/lec09.md) |  |
-| 10 | Transactions | Exam practice, | WQ5 due: Transaction Management |  |  |
+| 10 | Transactions | Exam practice | WQ5 due: Transaction Management | [Slides and recordings](./Lectures/lec10.md) |  |
 
 
 
