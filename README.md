@@ -49,23 +49,6 @@ Links to the Zoom meetings will appear on the course's Canvas page.
 
 
 ```
-[comment]:## **Calender:**
-
-**(subject to change)**
-
-| Week |              Description               |                         Discussions                          | **Assignments / Remarks**                                    | Lectures                                     | **Optional Reading** |
-| :--: | :------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ | -------------------------------------------- | -------------------- |
-|  1   |        Intro, Data models, SQL         | Sqlite practice [Source](https://drive.google.com/file/d/1hPmCCTVhdDo1vJKnZsJIR04oaWLwvbVw/view?usp=sharing), [Recording](https://drive.google.com/file/d/1UU-plebIEwNFsObNg-EciBBpzcvn9PE_/view?usp=sharing) |                                                              | [Slides and recordings](./Lectures/lec01.md) | Sec. 2.1, 2.2, 2.3   |
-|  2   |       Join and Aggregates in SQL       | SQL practice [Source](https://drive.google.com/file/d/1nr6QRDsr6f6RTWZsn80_slw4h6B3wTTh/view?usp=sharing), [Recording](https://drive.google.com/file/d/11RqJk7MJBxEjcF_kgNONM5NC06p88u0O/view?usp=sharing) | WQ1 due: Introduction, Data Models, and Simple SQL  <br />HW1 due: Sqlite | [Slides and recordings](./Lectures/lec02.md) | Sec. 6.1, 6.2        |
-|  3   |              Advanced SQL              | Azure and Advanced SQL practice [Source](https://drive.google.com/file/d/1-q4rX9t1Oj9e-fInjzy3m6_xPQFn66LR/view?usp=sharing), [Recording](https://drive.google.com/file/d/1iQbXkLfl46LFkTnHZQObO-_MVinCDh2M/view?usp=sharing) | HW2 due: Basic SQL <br />WQ2 due: SQL Aggregates             | [Slides and recordings](./Lectures/lec03.md) |                      |
-|  4   |           Relational Algebra           | Relational Algebra practice [Source](https://drive.google.com/file/d/1Z_vs0hlqfDnGYgZ_seTuJkZhI7456KjI/view?usp=sharing), [Recording](https://drive.google.com/file/d/1Pw_GA5SYiEDa-L-OGcpHows4izmIHL1M/view?usp=sharing) | WQ3 due: Nested Queries and Relational Algebra               | [Slides and recordings](./Lectures/lec04.md) |                      |
-|  5   | Query Evaluation <br />  **Mid-term**  | Exam practice [Recording](https://ucsd.zoom.us/rec/share/PYh0sN8DWfIEQnvnnpTtLDRLH04iqScNWk3Vsj_nRCcOeI2qlFm58fGRfmuPJDez.FHa-NhB1fpui6EJc) |                                                              | [Slides and recordings](./Lectures/lec05.md) |                      |
-|  6   |   Basics of Data Storage and Indexes   | Midterm solutions [Recording](https://drive.google.com/file/d/1WvG_n7DSc5s8KEYvJBgClSyePGtE2O1T/view?usp=sharing) | HW3 due: Advanced SQL                                        | [Slides and recordings](./Lectures/lec06.md) |                      |
-|  7   | Cost Estimation <br /> NoSQL Databases | Indexes and Cost Estimation [Source](https://docs.google.com/document/d/1QuVwn00LeX-4E4oRlV2mb5YjeUqvPV9WNKAAraQHiTY/edit?usp=sharing) [Recording](https://drive.google.com/file/d/1T3z42aQHAV5Ki0vrWmDAECyvlyyTps6_/view?usp=sharing) |                                                              | [Slides and recordings](./Lectures/lec07.md) |                      |
-|  8   |           Conceptual Design            | Design practice [Source](https://drive.google.com/file/d/1ocF-qNILFQxcO8TYlTysBqkUToaGmoJu/view?usp=sharing) [Recording](https://drive.google.com/file/d/1Abq-DQrdbXwBpsE-b06PYFgMm_vIz9YL/view?usp=sharing) |                                                              | [Slides and recordings](./Lectures/lec08.md) | Sec. 4.1, 4.6        |
-|  9   |           BCNF, Transactions           | Transactions practice [Source](https://drive.google.com/file/d/1LlLhfbfzvVQGwzabe4acuSg5WE2ijc3O/view?usp=sharing) [Recording]( https://drive.google.com/file/d/1-dAuYaE5_jeint7OhiYN90RSNQrLa_mP/view?usp=sharing) | WQ4 due: Conceptual Design <br />HW4 due: Conceptual Design  | [Slides and recordings](./Lectures/lec09.md) |                      |
-|  10  |              Transactions              | Exam practice[Recording]( https://drive.google.com/file/d/1-vTscJ80fV_IuXFDVbrOjRDntH8JzXSx/view?usp=sharing) | WQ5 due: Transaction Management                              | [Slides and recordings](./Lectures/lec10.md) |                      |
-
 
 ```
 
